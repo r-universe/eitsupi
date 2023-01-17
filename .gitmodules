@@ -7,5 +7,4 @@
 	path = prqlr
 	url = https://github.com/eitsupi/prqlr
 	shallow = true
-	branch = v0.0
 	registered = true
