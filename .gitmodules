@@ -1,10 +1,7 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/eitsupi/eitsupi.r-universe.dev
-	shallow = true
 	branch = HEAD
 [submodule "prqlr"]
 	path = prqlr
 	url = https://github.com/eitsupi/prqlr
-	shallow = true
-	registered = true
