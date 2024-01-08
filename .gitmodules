@@ -5,3 +5,4 @@
 [submodule "prqlr"]
 	path = prqlr
 	url = https://github.com/eitsupi/prqlr
+	branch = cross-compile-r-package
