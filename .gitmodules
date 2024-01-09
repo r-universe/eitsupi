@@ -2,6 +2,10 @@
 	path = .registry
 	url = https://github.com/eitsupi/eitsupi.r-universe.dev
 	branch = HEAD
+[submodule "polars"]
+	path = polars
+	url = https://github.com/pola-rs/r-polars
+	branch = support-cross-compile
 [submodule "prqlr"]
 	path = prqlr
 	url = https://github.com/eitsupi/prqlr
