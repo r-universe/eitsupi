@@ -9,6 +9,3 @@
 [submodule "neopolars"]
 	path = neopolars
 	url = https://github.com/eitsupi/neo-r-polars
-[submodule "prqlr"]
-	path = prqlr
-	url = https://github.com/eitsupi/prqlr
