@@ -9,3 +9,6 @@
 [submodule "neopolars"]
 	path = neopolars
 	url = https://github.com/eitsupi/neo-r-polars
+[submodule "rbootstraptest"]
+	path = rbootstraptest
+	url = https://github.com/eitsupi/rbootstraptest
