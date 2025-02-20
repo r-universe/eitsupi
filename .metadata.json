@@ -1,9 +1,5 @@
 [
   {
-    "package": "arrow",
-    "releasetag": true
-  },
-  {
     "package": "glaredb",
     "releasetag": true
   }
