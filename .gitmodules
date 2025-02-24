@@ -2,11 +2,6 @@
 	path = .registry
 	url = https://github.com/eitsupi/eitsupi.r-universe.dev
 	branch = HEAD
-[submodule "arrow"]
-	path = arrow
-	url = https://github.com/apache/arrow
-	branch = apache-arrow-19.0.1
-	subdir = r
 [submodule "glaredb"]
 	path = glaredb
 	url = https://github.com/eitsupi/r-glaredb
