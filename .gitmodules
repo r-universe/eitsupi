@@ -12,3 +12,6 @@
 [submodule "rbootstraptest"]
 	path = rbootstraptest
 	url = https://github.com/eitsupi/rbootstraptest
+[submodule "smvr"]
+	path = smvr
+	url = https://github.com/eitsupi/smvr
