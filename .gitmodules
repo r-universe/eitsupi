@@ -6,9 +6,6 @@
 	path = glaredb
 	url = https://github.com/eitsupi/r-glaredb
 	branch = v0.0.5
-[submodule "polars"]
-	path = polars
-	url = https://github.com/eitsupi/neo-r-polars
 [submodule "rbootstraptest"]
 	path = rbootstraptest
 	url = https://github.com/eitsupi/rbootstraptest
