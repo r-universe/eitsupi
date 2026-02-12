@@ -12,3 +12,7 @@
 [submodule "smvr"]
 	path = smvr
 	url = https://github.com/eitsupi/smvr
+[submodule "trigd"]
+	path = trigd
+	url = https://github.com/eitsupi/trigd
+	subdir = r-pkg
