@@ -6,13 +6,13 @@
 	path = glaredb
 	url = https://github.com/eitsupi/r-glaredb
 	branch = v0.0.5
+[submodule "jdv"]
+	path = jdv
+	url = https://github.com/eitsupi/jdv
+	subdir = r-pkg
 [submodule "rbootstraptest"]
 	path = rbootstraptest
 	url = https://github.com/eitsupi/rbootstraptest
 [submodule "smvr"]
 	path = smvr
 	url = https://github.com/eitsupi/smvr
-[submodule "trigd"]
-	path = trigd
-	url = https://github.com/eitsupi/trigd
-	subdir = r-pkg
